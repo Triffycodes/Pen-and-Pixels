@@ -1,4 +1,4 @@
-# Mega Blog App
+# Pen & Pixels App
 
 ## Introduction
 This is a Blog app where users can post blogs of their choice.
