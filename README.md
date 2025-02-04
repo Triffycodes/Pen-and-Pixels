@@ -19,7 +19,7 @@ This is a Blog app where users can post blogs of their choice.
 
 Clone/download the repository from Github
 ```bash
-git clone https://github.com/nil2022/MegaBlogProject.git
+https://github.com/Triffycodes/Pen-and-Pixels.git
 ```
 
 Now install the dependencies by running the following command
